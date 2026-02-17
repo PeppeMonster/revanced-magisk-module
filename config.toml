@@ -20,7 +20,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 #apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android/"
 arch = "arm64-v8a"
-included-patches = "'Hide ads' 'Open links externally' 'Sanitize sharing links' 'Disable signature check' 'Disable analytics'"
+included-patches = "'Hide ads' 'Open links externally' 'Disable signature check' 'Disable analytics'"
 exclusive-patches = true
 
 [Music]
